@@ -1,6 +1,5 @@
 # Description
 Bird's Eye Simulator Environment and Engine is a simulator written in C++ to to create scenarios and test cruise control and lane centering algorithms.
-For any questions or feedback, please contact khzyms@mcmaster.ca.
 
 ## Folder structure
 
